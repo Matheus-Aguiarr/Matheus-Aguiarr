@@ -4,7 +4,7 @@
 - 🌱 Estou aprendendo Java!
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Aguiarr&show_icons=true&theme=transparent&title_color=00AAFF)](https://github.com/Matheus-Aguiarr/github-readme-stats) <br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Aguiarr&theme=transparent&layout=compact)](https://github.com/Matheus-Aguiarr/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Aguiarr&theme=transparent&layout=compact&title_color=00AAFF)](https://github.com/Matheus-Aguiarr/github-readme-stats)
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
