@@ -1,7 +1,7 @@
 ## Faaaala! Eu sou o Matheus.
 
-- 🔭 Estou desenvolvendo aplicações web como freelancer!
-- 🌱 Estou aprendendo Java!
+- 🔭 Desenvolvo aplicações web como freelancer! (comumente Landing Pages)
+- 🌱 Desenvolvo back-end com a melhor linguagem do mundo e o melhor framework! (Java e Spring) 
 
 [![Matheus's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Aguiarr&show_icons=true&theme=transparent&title_color=00AAFF)](https://github.com/Matheus-Aguiarr/github-readme-stats) <br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Aguiarr&theme=transparent&layout=compact&title_color=00AAFF)](https://github.com/Matheus-Aguiarr/github-readme-stats)
